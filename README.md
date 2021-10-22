@@ -1,5 +1,5 @@
 # custom_dialog
-Custom Dialog with no third-party libraries
+With Dexter library
 
 # App ScreenShots
 
@@ -15,3 +15,5 @@ Dexter library to get access to the storage
 ![image4](https://user-images.githubusercontent.com/57729176/138435799-d078f45a-03b7-48d7-adf0-62445425803e.png)
 
 ![image5](https://user-images.githubusercontent.com/57729176/138435961-0f54c0b8-6db0-4973-b230-61ac61f3ca47.png)
+
+![image6](https://user-images.githubusercontent.com/57729176/138436241-d0d93482-cce6-4b67-a0a3-053b56863323.png)
